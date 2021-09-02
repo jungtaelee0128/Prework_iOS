@@ -33,8 +33,6 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [2021] [Jung Tae Lee]
